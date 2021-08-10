@@ -1,0 +1,25 @@
+{
+  "name": "electron-obs",
+  "version": "1.0.0",
+  "description": "A minimal Electron-OBS application",
+  "main": "main.js",
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-addon-api": "^1.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/wilddolphin2021/electron-obs",
+  "keywords": [
+    "Electron",
+    "OBS",
+    "primer",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^13.1.8"
+  }
+}
